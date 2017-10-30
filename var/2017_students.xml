@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <students>
+	<student>
+		<firstname>Maciej</firstname>
+		<lastname>Dyjak</lastname>
+		<email>maciek.dyjak5@gmail.com</email>
+		<github>maaani3k</github>
+		<group>KrDZIs3011Io</group>
+	</student>
     <student>
         <firstname>Elena</firstname>
         <lastname>Iakovlieva</lastname>
